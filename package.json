@@ -1,0 +1,25 @@
+{
+  "name": "http-impl",
+  "version": "1.0.0",
+  "description": "http impl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "ts-node src/server.ts",
+    "client": "ts-node src/client.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UMASHIBA1/http-impl.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UMASHIBA1/http-impl/issues"
+  },
+  "homepage": "https://github.com/UMASHIBA1/http-impl#readme",
+  "dependencies": {
+    "ts-node": "^10.0.0"
+  }
+}
